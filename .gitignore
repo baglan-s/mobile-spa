@@ -1,0 +1,4 @@
+/.idea
+/.vscode
+/docker/postgres/pg-data/*
+/docker/nginx/logs/*
